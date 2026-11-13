@@ -1,0 +1,13 @@
+
+# Keep datasets local
+Data/
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Local backup folder
+github_models/
